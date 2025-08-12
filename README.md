@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently working on: Web development projects involving ReactJS, Tailwind CSS, and GSAP.<br>I am looking to collaborate on: Frontend and full-stack web development projects.<br>I am looking for help with: Advanced JavaScript, performance optimization, and animations with GSAP.<br>I am currently learning: Full-stack development, including backend technologies and DevOps.<br>Ask me about: Web development, ReactJS, Tailwind CSS, GSAP, and frontend best practices.<br><br><br><br><br><br><br>
+I’m Jyoti Ranjan Rout, a passionate MERN stack web developer skilled in HTML, CSS, JavaScript, ReactJS, Tailwind CSS, GSAP, and API integration. I also have hands-on experience in backend development using Node.js, Express.js, MongoDB, Mongoose, Nodemon, and JWT authentication, allowing me to build complete, secure, and scalable web applications.
+
+🎓 I have completed my Bachelor of Computer Applications (BCA) from Mangalmay Group of Institute and am now pursuing my Master of Computer Applications (MCA) at Manipal University Jaipur.
+
+💼 One of my key projects, EcoMart, showcases my ability to create user-friendly, dynamic, and responsive applications with smooth data handling and secure backend operations.
+
+💡 I’m passionate about developing interactive, efficient, and scalable web solutions while continuously improving my skills in full-stack development.
 
 
 ## 🌐 Socials:
